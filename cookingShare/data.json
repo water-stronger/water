@@ -1,0 +1,1848 @@
+{
+   "foods":[
+     {
+       "name": "蔬菜",
+       "data": [{
+         "id": "1001",
+         "title": "蔬菜三丁",
+         "tags": "家常菜;瘦身;润肠通便;高血脂;老年人;防癌;炒;动脉硬化;便秘;冬季;降血脂;减肥;增强抵抗力;提高免疫力;快手菜;健脾;肥胖;脂肪肝;健脾胃;减肥排毒;春季养生菜谱;脾虚",
+         "imtro": "每日的餐桌上总是有荤有素，上饭店点菜也是这样，有时感到蔬菜也很贵，但还是不能少，营养膳食平衡从每一餐做起。 炒蔬菜比较简单，但也是要讲究点色香味，才能提起我们的食欲，特别可以让小孩喜欢吃。 就拿这个“蔬菜三丁”来说，内有香菇、胡萝卜和西兰花根茎，就有三色；炒菜时再配点大蒜和小葱提味点缀；掌握好火候使得脆软合适；还有盐的用量正确把握；这就是一道营养美食。",
+         "ingredients": "香菇,150g;胡萝卜,150g;西兰花根茎,150g",
+         "burden": "油,适量;盐,适量;新蒜,适量;小葱,适量;水淀粉,适量;生抽,适量",
+         "albums": [
+           "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/783_151664.jpg"
+         ],
+         "steps": [{
+           "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_ed86042843094a7a.jpg",
+           "step": "1.备好食材：泡发香菇、胡萝卜、西兰花根茎、新蒜和小葱。"
+         },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_74f26450256f3035.jpg",
+             "step": "2.将西兰花根茎削皮，先切长条，再切丁。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_fa9bb8d021fec97d.jpg",
+             "step": "3.同样将香菇和胡萝卜也切丁，新蒜剥出和小葱切碎。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_b286a847cdfb03fa.jpg",
+             "step": "4.热锅热油下香菇、新蒜和小葱，炒出香味加点盐调味，盛出。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_71bb7f65f0bdd598.jpg",
+             "step": "5.用原锅原油炒胡萝卜和西兰花根茎。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_fa6049e7625d9baa.jpg",
+             "step": "6.炒到变色加点盐调味。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_4b55a46b1f865d84.jpg",
+             "step": "7.接下来将4炒好的香菇倒下去翻炒。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_63e86ffed4af4b99.jpg",
+             "step": "8.加点生抽调味。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/8/783_10e004a88e195d3d.jpg",
+             "step": "9.最后勾芡，起锅装盘。"
+           }
+         ]
+       },
+         {
+           "id": "1002",
+           "title": "玉米蔬菜丁",
+           "tags": "热菜;润肠通便;利尿;排毒;儿童;高血脂;便秘;冬季;降血脂;素食;增强抵抗力;水肿;快手菜;健脾;利水消肿;脂肪肝;健脾胃;降血糖;调理肠胃;脾虚",
+           "imtro": "这道菜色彩缤纷，食材丰富，很讨小朋友喜欢。而且胡萝卜的营养价值极高素有“土人参”之称，对眼部也有很大的滋养作用。而玉米是一种常见的粗粮食品，玉米分为白玉米和黄玉米两种，其中黄玉米含的维生素A最高，能保护我们的视力。",
+           "ingredients": "玉米,200g;胡萝卜,1根;青笋,1棵",
+           "burden": "食用油,适量;盐,适量;蒜,适量;鸡精,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/1013_418131.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_c9ff8d1e0d6db53f.jpg",
+             "step": "1.胡萝卜去皮洗净切成小丁。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_7195f0853a007d6c.jpg",
+               "step": "2.莴笋去皮洗净切成小丁，蒜去皮切碎备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_56aeef552c19afa4.jpg",
+               "step": "3.煮锅烧开一锅水，放入玉米粒焯熟捞出备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_42eda00bebbfc10a.jpg",
+               "step": "4.把胡萝卜丁和莴笋丁分别焯水。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_ee394114464a1d96.jpg",
+               "step": "5.炒锅上火，放入食用油烧热爆香蒜末。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_25c208f15ea38128.jpg",
+               "step": "6.放入玉米粒、胡萝卜丁和莴笋丁翻炒。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1013_e66ea245159719ae.jpg",
+               "step": "7.调入盐、鸡精翻炒均匀即可关火食用。"
+             }
+           ]
+         },
+         {
+           "id": "1003",
+           "title": "五色蔬菜",
+           "tags": "瘦身;延缓衰老;润肠通便;利尿;补血;防辐射;排毒;高血压;贫血;高血脂;老年人;防癌;抗癌;炒;白领;便秘;冬季;降血脂;降血压;减肥;增强抵抗力;抗衰老;水肿;抗氧化;提高免疫力;补铁;快手菜;健脾;利水消肿;清肺;肥胖;缺铁性贫血;祛痘;脂肪肝;健脾胃;降血糖;炒锅;调理肠胃;祛痘美白;补硒;肺热;脾虚",
+           "imtro": "有科学研究发现，蔬菜、水果中含有一种与疾病作斗争的武器———植物营养素。根据蔬菜、水果的色泽来区分，不同的植物营养素对机体有着不同的功效， 黑色入肾。红色入心。黄色入脾。绿色入肝。白色入肺。专家说：每天要吃4--5种颜色的蔬果可入五脏 。",
+           "ingredients": "西兰花,100g;菜花,100g;胡萝卜,50g;玉米,50g;黑木耳,20g",
+           "burden": "油,适量;盐,适量;鸡精,适量;蒜蓉,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1207_406170.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_2a66bec628d2cd24.jpg",
+             "step": "1.备好的五种蔬菜。（黑木耳要先用水泡发）"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_22c639136eaf9920.jpg",
+               "step": "2.炒锅加水，加油。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_b99c946c25b56840.jpg",
+               "step": "3.水开加胡萝卜。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_461728ff994efe5f.jpg",
+               "step": "4.加入西兰花。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_0a297ebaf1d1536c.jpg",
+               "step": "5.加入菜花。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_0f1b460395b6dd17.jpg",
+               "step": "6.加入黑木耳。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_974e88f7ccb4f8d6.jpg",
+               "step": "7.加入玉米。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_3e70eb148d36dbdd.jpg",
+               "step": "8.焯2分钟后捞出。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_7252e2c199b0909e.jpg",
+               "step": "9.热锅下油。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_0dcb73eb3a1f9324.jpg",
+               "step": "10.加入蒜蓉炒一下，"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_e503e2b8047fd8a7.jpg",
+               "step": "11.加入五种蔬菜"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_35d9bab0131396c6.jpg",
+               "step": "12.翻炒"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_720a25037711aac6.jpg",
+               "step": "13.加点清水继续翻炒。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_59f986a9ec4e84bf.jpg",
+               "step": "14.加入适量的盐。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_0d9210d132c23e41.jpg",
+               "step": "15.加入适量的鸡精。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/13/1207_e87def5bbd351482.jpg",
+               "step": "16.出锅了。"
+             }
+           ]
+         },
+         {
+           "id": "1004",
+           "title": "泰式牛肉蔬菜沙拉",
+           "tags": "沙拉;补血;增肥;阳虚质;贫血;骨质疏松;酸辣;拌;白领;养颜;补钙;提高免疫力;补铁;快手菜;健脾;防晒;祛风散寒;祛寒;补虚;强筋健骨;增高;脾虚",
+           "imtro": "这是一个超级好吃的沙拉，最好吃的是这里面的煎牛肉。五彩的蔬菜，丰富的维生素，减肥童鞋们的佳品哦。只吃素又怎么能行，配上这牛肉，美味又丰富，在享受美食的同时又不失营养。牛肉不切丁，也不切片，就切成这样是不是看起来很粗犷呢，哈哈。可吃起来牛肉还是很嫩的，大快朵颐。酸酸辣辣是这个沙拉的特点。我喜欢吃酸的，挤了一个青柠檬的汁，清香极了，和牛肉太搭了！虽然我们在减肥，可是也要营养搭配，这样一个沙拉是不是特别符合我们这些胖纸呢！",
+           "ingredients": "牛肉,200g;紫甘蓝,50g;圣女果,100g",
+           "burden": "橄榄油,15ml;鱼露,20ml;白砂糖,5ml;胡椒粉,10ml;大蒜,4瓣;小红辣椒,5个;青柠檬,1个;薄荷叶,10片;黄椒,半个;香菜,30g;黄瓜,1根",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1432_293735.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_023df72c116f020d.jpg",
+             "step": "1.香菜洗净切段，圣女果对半切开。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_ee8bb3bee803940d.jpg",
+               "step": "2.紫甘蓝切丝，黄椒切丝。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_fdef8357857baf02.jpg",
+               "step": "3.黄瓜刮去皮，切成斜片，柠檬对半切开备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_fdd93e37e3400db9.jpg",
+               "step": "4.大蒜捣成蒜泥。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_f8e22b58ee7278c8.jpg",
+               "step": "5.加入鱼露、橄榄油、黑胡椒粉、糖，挤入柠檬汁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_3047b5c46756b28c.jpg",
+               "step": "6.小红辣椒切段，加入料汁里，搅拌均匀备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_72860f0da3958c70.jpg",
+               "step": "7.牛肉顺着纹理切成厚约1.5cm的大片。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_e741cf0624ca1348.jpg",
+               "step": "8.直接放入烧热的平锅里煎制。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_11c01d2f3ee218b4.jpg",
+               "step": "9.一面煎的焦黄后，翻面煎另外一面，此时会听见嗞嗞声，牛肉里的汁水慢慢流出，不要来回翻面。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_8c9dbaf1af96a01e.jpg",
+               "step": "10.煎好的牛肉切成宽约1cm的小段。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_084b2cd068a3986c.jpg",
+               "step": "11.牛肉和所有蔬菜放入盆里，倒入提前准备好的料汁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1432_2964375650a3d2fb.jpg",
+               "step": "12.慢慢翻拌均匀即可。"
+             }
+           ]
+         },
+         {
+           "id": "1005",
+           "title": "蔬菜鸡蛋汤",
+           "tags": "汤;快手菜;煮;热菜",
+           "imtro": "蔬菜蛋汤可说是一道花费时间少又易操作做的简单汤谱了，只要10分钟就可以搞定，蔬菜可以是一种或N种，此类汤既可以摄取到维生素，又可以摄取蛋白质，味道也还不错，非常适合中午回家吃饭的上班族享用。 中午也能喝上热乎乎的暖汤，顿时觉得生活美好了许多。",
+           "ingredients": "大白菜,2片;鸡蛋,1个",
+           "burden": "油,适量;盐,适量;鸡精,少许",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1465_177730.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1465_054e48df52b9ac3c.jpg",
+             "step": "1.原料准备好；"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1465_016c4b86d5a6e3e9.jpg",
+               "step": "2.白菜洗净撕成小条；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1465_aa3b7c65d6e05c67.jpg",
+               "step": "3.锅内入适量清水，水烧开后倒入少许油，放入白菜，待水再次烧开；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1465_d39f8a45a122c33b.jpg",
+               "step": "4.磕入鸡蛋划散，蛋花出现即可关火，调入适量盐和少许鸡精；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1465_4099bb505e93530d.jpg",
+               "step": "5.盛入大碗中即可；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/15/1465_559ef31dcf79711c.jpg",
+               "step": "6.成品。"
+             }
+           ]
+         },
+         {
+           "id": "1006",
+           "title": "蔬菜鸭肉卷",
+           "tags": "儿童;咸香;夏季;卷;快手菜;秋季菜谱",
+           "imtro": "蔬菜卷是人们很喜欢的一种美食，只有一次，就会喜欢上了这份颜色清新、口味清淡的美味。 用鸭肉做的卷饼中加搭配上清爽的几种蔬菜，蔬菜吃起来口感脆嫩不干柴，营养非常丰富颜色也很诱人，更符合高纤维的现代饮食健康需求。 鸭肉含有较为丰富的烟酸，脂肪酸熔点低，易于消化。所含B族维生素和维生素E较其他肉类 多，能有效抵抗脚气病，神经炎和多种炎症，还能抗衰老。搭配上各种蔬菜，弥补了这道菜维生素的空缺，让营养更加丰富。 可依据自己的口味，将鸭肉换成卤牛肉、火腿等食材，蔬菜也可随意搭配。",
+           "ingredients": "中筋面粉,100g;鸭肉,150g;鸡蛋,1个;葱丝,30g;黄瓜丝,50g;红椒,30g;黄椒,30g;生菜,3片",
+           "burden": "香油,适量;甜面酱,10g;生抽,10g;糖,3g",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1532_317804.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_57f609d42eaca45b.jpg",
+             "step": "1.原料"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_cb652de27cb3f9d4.jpg",
+               "step": "2.原料"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_1b624efc8bee5c58.jpg",
+               "step": "3.原料"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_1a8a6fab6f81fc26.jpg",
+               "step": "4.原料"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_a35282ad70375321.jpg",
+               "step": "5.取一中碗，倒入甜面酱、酱油、糖，用3汤匙冷开水调匀，锅内放麻油，油热后，放入酱料炒香，制成酱料。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_7af0194f79c4b658.jpg",
+               "step": "6.面粉、鸡蛋放入大碗中，加适量水调制成面糊"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_175767d179e3fbc4.jpg",
+               "step": "7.平底锅放入少许油，加热后，倒入面糊，烙至成面饼"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_847947a0b3a95750.jpg",
+               "step": "8.摊开面饼，涂抹调好的面酱"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_c1e73e27943f2e88.jpg",
+               "step": "9.依次摆放生菜、鸭肉片、葱、黄瓜、甜椒"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1532_6a2ba56d776cb4d0.jpg",
+               "step": "10.卷成饼状即可"
+             }
+           ]
+         },
+         {
+           "id": "1007",
+           "title": "金枪鱼蔬菜鸡蛋卷",
+           "tags": "快手菜;早餐;面食;白领",
+           "imtro": "年轻的妈妈们还在为早餐发愁吗？ 昨天在美食QQ群中，有位妈妈发出早餐征集信号，问大家有什么好的早餐建议，结果话语一出， 引得大家一阵的激烈讨论，因为又要时间快， 又要有营养， 又要好吃，又要不经常吃的。。。太多的要求，哎， 要理解， 这也是当父母的一番苦心。 我们知道，早餐是一天中最重要的一餐， 它能为我们全天的能量提供基础，所以每一个人都应该重视，健康早餐中应该包括蛋白质、碳水化合物、膳食纤维和乳制品等。 平时我们在蛋白质的选择上很多都会选些肉类食物，但是如果我们将它替换成鱼类， 是不是更健康呢？ 今天我给大家提供这样一份营养早餐——金枪鱼蔬菜卷，它不仅制作简单快捷，而且十分方便；用健康的金枪鱼作为馅料， 与各式蔬菜搭配，再用鸡蛋卷饼包起， 这样一份更加健康营养的早餐“金枪鱼蔬菜卷饼”就完成了， 再搭配上一杯牛奶，吃上个水果，是不是父母们再也不用担心小孩们的营养呢？",
+           "ingredients": "金枪鱼罐头,半罐;鸡蛋,2个;面粉,120g;黄瓜,1根",
+           "burden": "油,适量;盐,适量;沙拉酱,适量;小葱,适量;紫甘蓝,2片;紫菜,2张",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1598_883261.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_0bbb9204bb750bfe.jpg",
+             "step": "1.准备好原材料；"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_a0756995630b4eef.jpg",
+               "step": "2. 将鸡蛋打入碗中， 放入适量的盐和小葱末；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_20b21a936b38865b.jpg",
+               "step": "3. 再加入适量的水，继续搅拌， 直至合成稀稠合适的面糊，加入几滴油， 再搅拌均匀；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_6e1245feb82e043d.jpg",
+               "step": "4.将紫甘蓝和黄瓜丝放入碗中， 将橄榄油浸金枪鱼放入其中；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_4a21c7c239940418.jpg",
+               "step": "5. 再加入适量的沙拉酱；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_dabbf89e10b88d1c.jpg",
+               "step": "6. 搅拌均匀备用；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_f6a5a074fc220d20.jpg",
+               "step": "7. 烧热锅，刷层薄薄的油；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_2f0ca236b29480f6.jpg",
+               "step": "8. 锅离火， 倒入准备好的鸡蛋面糊， 旋转锅， 让面糊均匀的铺在锅底；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_12a4a003709a7912.jpg",
+               "step": "9. 小火慢慢煎， 等其成熟定型，煎好的鸡蛋饼放在干净的案板上；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_d0b43f42aba97a2f.jpg",
+               "step": "10. 将面饼反过来， 下面铺上金枪鱼沙拉；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_1719644f78105e0d.jpg",
+               "step": "11.上面盖上张紫菜；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_35c5b0c1a231fee2.jpg",
+               "step": "12. 将它们卷起来；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_f18c5c0552cc9e26.jpg",
+               "step": "13.斜切成大小合适的块；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/16/1598_6094ee36389a2f50.jpg",
+               "step": "14. 放在盘上， 再配上杯牛奶。"
+             }
+           ]
+         },
+         {
+           "id": "1008",
+           "title": "韩式蔬菜卷",
+           "tags": "瘦身;利尿;防辐射;排毒;湿热质;高血脂;骨质疏松;动脉硬化;便秘;夏季;秋季;降血脂;减肥;补钙;水肿;鲜香;补铁;快手菜;利水消肿;肥胖;补碘;懒人食谱;去湿气",
+           "imtro": "韩式蔬菜卷是以海带为主的凉拌菜，海带在韩国是一日三餐都离不开的食物，因最常见的吃法是加醋凉拌，或者放点蒜末做成韩式海带汤。海带在韩国也是美容、瘦身的佳品。海带热量低，易消化吸收，长期食用也不会引发肥胖。 拌海带丝的配菜可以根据自己的口味和家中现在的材料来调整，也可加洋葱丝，或加一点香菜、芝麻、辣椒油。 由于铁质是构成血红蛋白的核心成分。因此，补充适量的铁质能够促使血红蛋白的增加，从而增强其输送氧分和营养成分的能力，而海带富含铁质，所以经常服用海带，也能缓解黑眼圈的困扰。其他含铁质丰富的食物还有动物肝、瘦肉等。",
+           "ingredients": "海带,200g;黄椒,1个;胡萝卜,30g;黄瓜,30g;茭白,30g",
+           "burden": "盐,适量;韩式蒜蓉辣酱,10g;醋,10g;糖,2g;生抽,8g;香油,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1652_835711.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_f32375113433dd8a.jpg",
+             "step": "1.原料"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_73334962ba2ef91f.jpg",
+               "step": "2.调料"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_dffe01b3e514dd8a.jpg",
+               "step": "3. 黄辣椒洗净，去蒂去籽，切成细丝，胡萝卜、黄瓜、茭白洗净切丝"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_b83e75e13f0895a4.jpg",
+               "step": "4. 黄椒、胡萝卜、茭白下锅快速焯水，捞出"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_a41ae50c3d30344c.jpg",
+               "step": "5. 海带丝洗净后，用水焯熟，捞出沥干"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_b7198228086f3f69.jpg",
+               "step": "6. 韩式蒜蓉辣酱、醋、糖、生抽、香油 调成料汁"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_91704ca83e5c3472.jpg",
+               "step": "7. 将海带丝、黄椒、胡萝卜、黄瓜放入大碗中"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1652_dd79f027f149b22d.jpg",
+               "step": "8.倒入调制好的料汁，拌匀即可食用"
+             }
+           ]
+         }
+       ]
+     },
+     {
+       "name": "肉",
+       "data": [
+         {
+           "id": "2001",
+           "title": "辣椒炒肉",
+           "tags": "家常菜;10分钟内;炒;孕妇;青少年;老人;白领;晚餐;香辣;营养;增强抵抗力;全菜系;1-2人;待客菜;炒锅",
+           "imtro": "辣椒炒肉，是湘菜里的一道经典家常菜，每家每户都会做的一道菜，而且每家都有自己的做法和绝招，呵呵。记得有次再朋友家里吃过这道菜，非常简单的做法，几乎没用啥特别的调料，味道却出奇的好，赶紧偷学了，回来做做，果然可以。电视里说烹饪协会定了湘菜的标准，辣椒炒肉辣椒和肉的比例要3:5，不知道这个规矩对不对，如果中餐都像西餐一样，都进行量化了，那么，是好事还是坏事呢，嘿嘿。那天看到番茄果说到辣椒炒肉，令我记忆起这道菜，于是花了8块钱买了半斤五花肉，还有1块钱的辣椒，一道不算贵又好吃的辣椒炒肉就出炉了。",
+           "ingredients": "五花肉,250g;尖椒,200g;青蒜,1个",
+           "burden": "生抽,适量;盐,适量;鸡精,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/2_124913.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_034cf1bf3ae43bb6.jpg",
+               "step": "1.五花肉半斤洗净。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_6965df21425ff1f0.jpg",
+               "step": "2.将五花肉切片，用生抽将肉腌制一会儿。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_a7d5594b31fe3d5b.jpg",
+               "step": "3.准备好辣椒并洗净。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_28605064fce1d738.jpg",
+               "step": "4.将尖椒和青蒜切段。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_d68ee0e759797db0.jpg",
+               "step": "5.起油锅，下五花肉煸香并出出油。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_cfba88bbeae96778.jpg",
+               "step": "6.待五花肉八成熟时盛起待用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_44ee8282fef4263c.jpg",
+               "step": "7.将辣椒，青蒜入锅煸炒。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_c4f00390cb4dc668.jpg",
+               "step": "8.等到辣椒炒至表皮有点快糊的时候，下肉一起炒匀。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_463887fd74a5a4ff.jpg",
+               "step": "9.待猪肉熟透后，加入盐、鸡精调味，就可以出锅了。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/2_2f99cbde26a81694.jpg",
+               "step": "10.好吃的辣椒炒肉，大家尝尝。"
+             }
+           ]
+         },
+         {
+           "id": "2002",
+           "title": "农家小炒肉",
+           "tags": "家常菜;辣;10分钟内;炒;下酒菜;下饭菜;全菜系;1-2人;炒锅",
+           "imtro": "对于冠有“农家”两个字的菜，在我认为，关键就是突出原汁原味的乡土气息，所以，重点不在刀工与形状，而在于主配料的齐全。农家小炒肉，说白了其实就是精华版的尖椒炒肉，但姜、蒜、辣椒不能省，正是由于多种配料的加入，才令爆香的味道十分惹人。",
+           "ingredients": "五花肉,500g",
+           "burden": "红椒,适量;尖椒,适量;青蒜,适量;蒜,适量;姜,适量;生抽,1大勺;剁椒,1大勺;鸡精,1/2勺;油,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/3_139793.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_304e397cc6ed0701.jpg",
+               "step": "1.五花肉洗净、切片，青红椒切块，青葱切段，蒜切片，姜切末；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_293e9f6cf13a5b1d.jpg",
+               "step": "2.锅烧热，倒入少许油，油热后，放入姜蒜末爆香；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_4e73297059d4fd8a.jpg",
+               "step": "3.倒入切片的五花肉；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_73eb35cf5443b5c3.jpg",
+               "step": "4.翻炒至五花肉变色，加入青蒜；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_7aa242fe22fc5e0f.jpg",
+               "step": "5.翻炒均匀，加入青红椒；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_9a31789ebc25e549.jpg",
+               "step": "6.继续炒匀，加入剁椒；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_42883e18a11e21a5.jpg",
+               "step": "7.加入生抽；"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/3_4cfb76967d70fd2d.jpg",
+               "step": "8.加入少许鸡精，翻炒均匀即可。"
+             }
+           ]
+         },
+         {
+           "id": "2003",
+           "title": "肉馅豆腐夹",
+           "tags": "家常菜;美容;通乳;增肥;痰湿质;骨质疏松;半小时-1小时;午餐;晚餐;冬季;止咳;下饭菜;补钙;咳嗽;3-4人;健脾;化痰;祛风散寒;祛寒;催乳;止咳化痰;下奶;健脾胃;锅子;其他味;其他工艺;助睡眠;小儿咳嗽;脾虚",
+           "imtro": "肉馅豆腐夹用猪肉、鸡蛋清、土豆等多种主料辅料做菜，真可谓荤素兼备，肉、菜、果俱全的集锦菜。猪肉、鸡蛋清含有丰富的动物性优质蛋白质和动物脂肪 菜品口感：多味道、多颜色、多营养。 　　豆腐：豆腐的蛋白质含量丰富，而且豆腐蛋白属完全蛋白，不仅含有人体必需的八种氨基酸，而且比例也接近人体需要，营养价值较高；有降低血脂，保护血管细胞，预防心血管疾病的作用。此外，豆腐对病后调养、减肥、细腻肌肤亦很有好处。 　　猪肉(瘦)：猪肉含有丰富的优质蛋白质和必需的脂肪酸，并提供血红素（有机铁）和促进铁吸收的半胱氨酸，能改善缺铁性贫血；具有补肾养血，滋阴润燥的功效；猪精肉相对其它部位的猪肉，其含有丰富优质蛋白，脂肪、胆固醇较少，一般人群均可适量食用。",
+           "ingredients": "豆腐,400g;猪肉,100g;土豆,1个",
+           "burden": "葱,10g;姜,5g;料酒,15ml;老抽,5ml;生抽,10ml;味精,2g;胡椒粉,1g;香油,10ml;色拉油,10ml;盐,2g;淀粉,5g;白糖,5g",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/8_834748.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_4a34d47052e21d10.jpg",
+               "step": "1.豆腐一块，用盐水浸泡10分钟。为了使豆腐容易成型。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_e561ad84f5779eaa.jpg",
+               "step": "2.猪肉洗净，切成小块。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_8fc67a8fef81f934.jpg",
+               "step": "3.葱、姜洗净。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_85fbe832118b4325.jpg",
+               "step": "4.把猪肉剁成碎末，葱、姜切碎。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_059d84fd0b98ca2c.jpg",
+               "step": "5.把豆腐切成每组两片，不要断开。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_be6cca7dcb62b31f.jpg",
+               "step": "6.肉馅中放入葱、姜末、料酒、老抽、生抽、盐、味精、胡椒粉、香油拌匀。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_fc1dce0c26d16101.jpg",
+               "step": "7.每两片豆腐中间放上一层肉馅，涂抹均匀。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_cc99f01f4e100577.jpg",
+               "step": "8.土豆去皮洗净，切成8毫米的薄片。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_2bc90b68ed56ea6a.jpg",
+               "step": "9.先把土豆片放入盘子里，再把豆腐肉夹均匀的放到土豆上面。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_9215786e9d89ce94.jpg",
+               "step": "10.锅里放足量的水，大火烧开，把豆腐肉夹放入锅中。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_ca496962e916a55b.jpg",
+               "step": "11.盖上锅盖，用大火蒸10分钟即可。关火取出来稍晾。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_faa352411801ac50.jpg",
+               "step": "12.锅里放少量油，把蒸豆腐的原汁倒入锅中，再放入老抽、生抽、白糖烧开后，用淀粉勾芡即可，出锅前放入香油调味即可。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/8_8d335279b5c6703a.jpg",
+               "step": "13.把烧好的酱汁浇到豆腐上即可，就可以吃了。"
+             }
+           ]
+         },
+         {
+           "id": "2004",
+           "title": "东坡肉",
+           "tags": "浙菜;家常菜;私房菜;炖;黄酒;花雕酒;春季;贴秋膘;香糯",
+           "imtro": "东坡肉属于浙菜系，成品薄皮嫩肉，色泽红亮，味醇汁浓，酥烂而形不碎，香糯而不腻口。东坡肉选料很讲究，要选择皮猪肉为主要原料，猪肉要选择肥瘦相间的，先焯水定型后再切方块烹制，特点是使用绍兴黄酒为主要炖煮材料，小火长时间慢炖，味道才地道。 这道菜据说是苏东坡发明的，苏东坡的《炖肉歌》道：“黄州好猪肉，价贱如粪土。富者不肯吃，贫者不解煮。慢着火、少着水，柴火罨焰烟不起，待它自熟莫催它，火候足时它自美。”",
+           "ingredients": "带皮五花肉,1000g;花雕酒,500g;小白菜,300g",
+           "burden": "冰糖,80g;盐,2小勺;大葱,80g;生姜,50g;老抽,1大勺;香油,1小勺;干淀粉,2小勺",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/9_653116.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_98cc25de49b69358.jpg",
+               "step": "1.将猪肉刮净皮上的余留猪毛，洗净。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_9a6158abab026eda.jpg",
+               "step": "2.放入冷水锅中。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_f8565538074c53ed.jpg",
+               "step": "3.大火烧开，煮至血末浮起，再煮5 分钟，捞出。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_5b3236f249cb95f7.jpg",
+               "step": "4.切成4厘米左右的小方块。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_e24279119bf68b84.jpg",
+               "step": "5.大葱切长段，生姜切大片。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_ae6defb77bd038b6.jpg",
+               "step": "6.砂锅内先铺一个竹垫，放入葱段和姜片。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_09a9e5249bbbb2be.jpg",
+               "step": "7.把切好的肉块皮朝下放入砂锅内。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_7b831d50a573c36c.jpg",
+               "step": "8.放入盐。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_f9026ccb426a60f3.jpg",
+               "step": "9.再放入老抽。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_91595f5efe9b0c4e.jpg",
+               "step": "10.然后倒入花雕酒，再放入200克清水。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_f3cafd0a409fd0ae.jpg",
+               "step": "11.把砂锅放到炉子上大火烧开，撇去浮沫后加盖转小火炖1小时。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_7766f21ff81d9c59.jpg",
+               "step": "12.放入冰糖，再炖30分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_b7d243d96796cd9e.jpg",
+               "step": "13.把猪肉块翻过来，皮朝上再炖20分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_911190784c03b756.jpg",
+               "step": "14.把顿好的肉皮朝上放入大碗中，入蒸锅大火蒸10-15分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_1262010cc0f56c06.jpg",
+               "step": "15.把洗净的小白菜放入开水锅内焯烫致变色，捞出。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_400409be3975cbfb.jpg",
+               "step": "16.挤干小白菜的水分，用少许的盐和香油拌匀放入小砂锅内。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_07cbfce7e1035e55.jpg",
+               "step": "17.把肉汤放入炒锅内，加适量水淀粉勾成芡汁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/9_f3728cd5c4451484.jpg",
+               "step": "18.猪肉皮朝上整齐地码放在小砂锅中，把芡汁浇在猪肉块上即可。"
+             }
+           ]
+         },
+         {
+           "id": "2005",
+           "title": "红烧肉",
+           "tags": "家常菜;老年人;咸;半小时-1小时;青少年;白领;红烧;1-2人;炒锅",
+           "imtro": "加了鹌鹑蛋，祝大家岁岁平“鹌”。",
+           "ingredients": "五花肉,250g;萝卜,100g;鹌鹑蛋,20个",
+           "burden": "油,适量;盐,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/14_359794.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_706ca81e0bbecefe.jpg",
+               "step": "1.带皮五花肉 ，鹌鹑蛋，白萝卜备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_dc89a7e8f2823202.jpg",
+               "step": "2.配料备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_ae5efcd7698c7a51.jpg",
+               "step": "3.鹌鹑蛋煮熟后去皮，备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_6246ae9cde95a443.jpg",
+               "step": "4.白萝卜洗净，切大块。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_fa36e18ba88ba812.jpg",
+               "step": "5.五花肉，洗净切大块。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_fb6017cd9ea66698.jpg",
+               "step": "6.焯水后备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_79b1cc9fb722b4dd.jpg",
+               "step": "7.油锅烧热，下入肉块。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_0a45336653b0eb33.jpg",
+               "step": "8.煎到微黄。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_cb483431930bb8cd.jpg",
+               "step": "9.加入白糖。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_93eababb3d6f328a.jpg",
+               "step": "10.炒到金黄色。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_b1672001decab1dc.jpg",
+               "step": "11.加入料酒和老抽，炒均匀。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_03ce88cb45776456.jpg",
+               "step": "12.放入干红椒，生姜， 八角， 香叶，花椒，炒出香味后，后加入适量的水。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_5e067f35b2297a47.jpg",
+               "step": "13.煮十几分钟后，加入萝卜和鹌鹑蛋。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/14_7f8a56f9b8498703.jpg",
+               "step": "14.再煮上十几分钟，肉和萝卜软烂，大火收汁加入适量的盐即可。"
+             }
+           ]
+         },
+         {
+           "id": "2006",
+           "title": "泡椒肉末烤茄子",
+           "tags": "家常菜;10分钟内;浪漫;全菜系;1-2人;泡椒味;锅子",
+           "imtro": "这是我的创意菜，外面餐馆是没有滴哟。。。把自己的创意菜摆在家庭聚会的餐桌上，看到大家津津有味的吃着，听着大家的夸赞心里那叫一个美。什么累，都忘了。 这菜先把茄子放在煎锅中加入孜然和盐烤香进味，再把炒熟的泡椒肉末浇在茄子上面。是不是很简单呀，，可是味道却很赞，泡椒和肉的香味融进茄子里面带着孜然的味道，想想都留口水。。。",
+           "ingredients": "长茄子,300g;肉末,200g;泡椒,50g",
+           "burden": "葱,适量;姜,适量;盐,3g;孜然粒,3g;料酒,适量;酱油,适量;鸡精,2g;食用油,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/15_129222.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_5cfbe317b2e8a72b.jpg",
+               "step": "1.茄子从中间抛开，面上切上花刀。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_0faa4640e1671341.jpg",
+               "step": "2.煎锅烧热刷上少量的油，茄子的切面朝上加入盐和孜然粒，煎烤至底部变软。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_8ab1dc5916405e4a.jpg",
+               "step": "3.把茄子翻面继续煎烤。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_52451a7b5a95d8c3.jpg",
+               "step": "4.煎烤至到茄子表面金黄，这时茄子已经熟透，盛出放入盘中。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_5ecb554c620bdf30.jpg",
+               "step": "5.锅中放入油爆香葱姜。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_09a7dfaf12cea04b.jpg",
+               "step": "6.下入肉馅煸炒至变色。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_b357fcf54a6319a7.jpg",
+               "step": "7.加入泡椒继续煸炒。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_2061656dcbf0e17e.jpg",
+               "step": "8.放入酱油 料酒 糖 煸炒均匀后加入鸡精调味。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/15_8f10e3d72dc1a496.jpg",
+               "step": "9.把炒好的泡椒肉末浇在煎烤好是茄子上即可。"
+             }
+           ]
+         },
+         {
+           "id": "2007",
+           "title": "莲花酱肉丝",
+           "tags": "青少年;孕妇;白领;锅子;全菜系;10-20分钟;1-2人;待客菜;营养;增强抵抗力;老人;酱爆;咸;家常菜;晚餐;京菜",
+           "imtro": "京酱肉丝的改良版，还是那样的皮，还是那样的肉，还是常用的那些配菜，只不过，换了换花型，把菜包了进来，肉丝直接用筷子夹着吃了。做成莲花的造型，招待客人，会不会让人有眼前一亮的感觉？只是，天阴，拍出的照片不尽人意。",
+           "ingredients": "豆腐皮,200g;里脊肉,180g",
+           "burden": "甜酱,适量;葱丝,适量;胡萝卜,适量;黄瓜,适量;淀粉,适量;蛋清,适量;料酒,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/16_673867.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_655d65f37108da1b.jpg",
+               "step": "1.里脊肉切成丝，加蛋清、料酒、淀粉上浆。（我放的蛋清多了点）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_3be5c4768d16fc8a.jpg",
+               "step": "2.薄豆皮用沸水烫一下。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_7909b48f45d4f7e0.jpg",
+               "step": "3.黄瓜和胡萝卜切成细丝。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_6d4c2ed21ba92f80.jpg",
+               "step": "4.锅中放少量油，入甜酱炒香。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_f7195eeb02197d6b.jpg",
+               "step": "5.将肉丝入锅中炒熟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_21a82218cf2e9ebc.jpg",
+               "step": "6.将豆皮上摆点胡萝卜丝、黄瓜丝。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_0c85d6428eb8a6a4.jpg",
+               "step": "7.卷紧卷起切斜刀段。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_5ff5e4723da0045c.jpg",
+               "step": "8.沿盘的外围摆上一圈。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_c2d70b81f0f8c763.jpg",
+               "step": "9.放入肉丝。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/16_b4a2abbee6254277.jpg",
+               "step": "10.再放些葱丝点缀。"
+             }
+           ]
+         },
+         {
+           "id": "2008",
+           "title": "回锅肉",
+           "tags": "川菜;家常菜;10-20分钟;炒;咸鲜;1-2人;炒锅;体力劳动者",
+           "imtro": "年前朋友送我一罐专程从四川带回来的 娟城牌郫县豆瓣酱。这个牌子是我一直想尝试的，可惜本地没有的卖，这下如愿以偿了，太了解我了！喜欢！ 这个豆瓣酱的确很棒，色泽红亮、味道香浓。 有了这么好的酱料，第一个想到就是：回锅肉 ！ 据说正宗的四川回锅肉是用后臀肉去掉臀尖的第二圈肉，俗称“二刀肉”的，但家常做就别那么严格了，我家一般都用五花肉，因为相公喜欢嘛。",
+           "ingredients": "五花肉,400g;青蒜,250g",
+           "burden": "葱,适量;姜,适量;蒜,适量;干红辣椒,适量;花椒,1勺;郫县豆瓣酱,1大勺;料酒,适量;糖,适量;酱油,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/0/18_737073.jpg"
+           ],
+           "steps": [
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_4d28e6101f9b487f.jpg",
+               "step": "1.带皮五花肉冷水下锅加入葱段、姜片花椒7、8粒，黄酒适量煮开"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_bb3b03364e96bd99.jpg",
+               "step": "2.撇净浮沫，煮至八成熟，取出自然冷却。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_3c7c6cd164749448.jpg",
+               "step": "3.将肉切成薄片，姜、蒜切片，葱切成斜段"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_63075bd33a1089b0.jpg",
+               "step": "4.将青蒜的白色部分先用刀拍一下，然后全部斜切成段备用"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_e7ec45f615bb8a23.jpg",
+               "step": "5.炒锅上火，加很少的油煸香辣椒、花椒及葱姜蒜"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_16552adbb37bf715.jpg",
+               "step": "6.下入肉片煸炒，至肉片颜色变透明，边缘略微卷起"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_d64a22c13b694376.jpg",
+               "step": "7.将肉拨到锅一边，下入郫县豆瓣酱（可以先剁细）炒出红油"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_cda348a3806b06e0.jpg",
+               "step": "8.适当的加入少许酱油或甜面酱调色，与肉片一起翻炒均匀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/18_6d55dd5feae36258.jpg",
+               "step": "9.下入青蒜，点少许料酒，糖调好味道即可出锅。"
+             }
+           ]
+         }
+       ]
+     },
+
+     {
+       "name": "水果",
+       "data": [{
+         "id": "3001",
+         "title": "水果沙拉船",
+         "tags": "甜品;沙拉;美容;瘦身;延缓衰老;润肠通便;护肝;排毒;阴虚质;痰湿质;感冒;支气管炎;便秘;秋季;滋阴润燥;减肥;止咳;补水;抗衰老;滋阴;抗氧化;快手菜;咳嗽;润肺止咳;化痰;夏季菜谱;防晒;生津止渴;肥胖;止咳化痰;补肝;祛痘;抗过敏;保湿;清肺化痰;懒人食谱;小儿咳嗽;祛痘美白;滋阴降火;肺热;过敏;口臭",
+         "imtro": "沙拉船是一种色泽鲜艳，香甜爽口，做法简单的夏日美食，且形状像船型，里头的配料又多且丰富，就像一艘满载营养配料的船。这绚烂的色彩，超低卡的食物搭配让减肥者直呼过瘾。是不是有一种盛夏的风情呢，就跟水果沙拉来一次美丽的夏日瘦身之旅吧。 水果含有丰富的维生素C、维生素A以及人体必需的各种矿物质和纤维质，可促进健康、增强免疫力。水果沙拉营养丰富、口感新鲜，深受MM喜爱，是MM们减肥、提高身体免疫力的最佳食品。",
+         "ingredients": "火龙果,1个;苹果,1个;猕猴桃,1个;金桔,3个;梨,1个",
+         "burden": "炼乳,适量",
+         "albums": [
+           "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/1046_449373.jpg"
+         ],
+         "steps": [{
+           "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_faf05b465b900f6b.jpg",
+           "step": "1.原料"
+         },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_39ca36a56e7e0059.jpg",
+             "step": "2.原料"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_36ffb70cc86a8d3b.jpg",
+             "step": "3.火龙果切成两半，挖出果肉，将果肉切丁"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_3491e8b09e12b291.jpg",
+             "step": "4.金桔洗净，用刀在金桔纵向切几刀，不宜切的过深"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_80f793a406d1540d.jpg",
+             "step": "5.然后将金桔按扁"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_2d67e1a25d650d46.jpg",
+             "step": "6.猕猴桃去皮、切丁，苹果、梨洗净切丁"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/11/1046_c3a7788c9feee1ba.jpg",
+             "step": "7.将苹果丁、梨丁、猕猴桃丁、火龙果丁、金桔调入练奶拌匀，放入火龙果的壳中即可"
+           }
+         ]
+       },
+         {
+           "id": "3002",
+           "title": "海鲜水果沙拉",
+           "tags": "沙拉;润肠通便;排毒;便秘;快手菜;夏季菜谱;七夕节",
+           "imtro": "因不喜欢吃甜，所以对于甜点是一知半解，也没有尝试去做过。不会烘焙和做甜点，但在当今的论坛里，没有一技之长是不能混的。学着做个甜点吧，如果我做的算是甜点的话。 做个简单些的水果拼盘吧，嗯，就用沙拉和水果做拼盘。之所以选择这水果和沙拉，主要这样做出来的拼盘即使失败了，用水冲洗干净还能吃，损失不大。",
+           "ingredients": "哈密瓜,150g;火龙果,150g;鲜海虾,100g",
+           "burden": "沙拉酱,2汤匙;酸奶,1汤匙;精盐,适量;胡萝卜,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1653_239467.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_16e4a39387f8e6d2.jpg",
+             "step": "1.海虾去头壳，用刀子从虾背部切开，去除虾线后码入小碗里撒少许精盐腌渍10分钟。把虾入开水锅焯熟，捞出晾凉备用。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_4d58b3756e410b16.jpg",
+               "step": "2.哈密瓜打皮去瓤，用刀切成小块。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_e78b7868af6f581a.jpg",
+               "step": "3.火龙果剥皮后切成滚刀块。把切好的水果块，虾肉码入干净容器里放入冰箱冷藏室放置30分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_21524810385ccabf.jpg",
+               "step": "4.利用这段等待的时间做一朵胡萝卜玫瑰给菜品做点缀；胡萝卜洗净后取中上部粗细均匀处约5公分的长段，用刀仔细的把胡萝卜片成薄片（有十多片就可以）。把片好的胡萝卜片用盐腌渍几分钟让其柔软，以方便使用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_20c120c10145c21d.jpg",
+               "step": "5.取一片胡萝卜片，对折后沿一边卷起，把牙签十字交叉插在胡萝卜卷的底部。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_96df885d8b8b428d.jpg",
+               "step": "6.另取一片胡萝卜片，对折后插在临近的两根牙签上。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_4d7a9b7b8ff8b6b7.jpg",
+               "step": "7.第三片胡萝卜不用对折，插在临近的两根牙签上。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_83bd6987ce6a158f.jpg",
+               "step": "8.依次把剩余的胡萝卜片按照第三片的方法插好，成玫瑰花。把做好的胡萝卜玫瑰花放入清水里浸泡，让花瓣硬挺些。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_f7940ab2360e359c.jpg",
+               "step": "9.取干净小碗，倒入约一汤匙的酸奶，挖入两汤匙沙拉酱，调制均匀粘稠的沙拉汁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/17/1653_1403990a03fa5367.jpg",
+               "step": "10.从冰箱里取出冷藏好的水果盘，浇入沙拉汁拌匀即可。最后把做好的胡萝卜玫瑰放置在盘子的一角，作为点缀。"
+             }
+           ]
+         },
+         {
+           "id": "3003",
+           "title": "水果拼盘之椰子树",
+           "tags": "润肠通便;高血压;抗疲劳;失眠;便秘;健忘;素食;降血压;增强抵抗力;补水;快手菜;祛斑;夏季菜谱;益智;健脑益智;健脑;祛痘;增强记忆力;保湿;缓解压力;助睡眠;祛痘美白",
+           "imtro": "无意间在网上看见了这个造型，于是就迫不及待的自己动手做一个了，可惜那天没了橘子，不然用橘子加上沙滩更有椰岛风情的感觉了",
+           "ingredients": "香蕉,1个;奇异果,1个",
+           "burden": "水果类,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1712_346023.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/18/1712_3385ba2f842827f9.jpg",
+             "step": "1.奇异果1个"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/18/1712_80fe966e10512957.jpg",
+               "step": "2.香蕉1条"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/18/1712_0f429857126a2d87.jpg",
+               "step": "3.香蕉切片（别把片弄乱了，等会摆的时候会方便很多）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/18/1712_c546ceab5d16ade3.jpg",
+               "step": "4.奇异果去皮对半切后再分4份，也就是一个切8份"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/18/1712_1e7bccdfa80b94c9.jpg",
+               "step": "5.拿出一个足够大的盘子，摆上造型，漂亮的椰子树就完成了"
+             }
+           ]
+         },
+         {
+           "id": "3004",
+           "title": "脆皮水果沙拉",
+           "tags": "沙拉;美容;瘦身;通乳;延缓衰老;润肠通便;湿热质;炸;便秘;小吃;夏季;秋季;减肥;补水;抗衰老;抗氧化;肥胖;催乳;创意菜;下奶;抗过敏;保湿;过敏;口臭",
+           "imtro": "水果沙拉新吃法，外脆里嫩，让你吃得停不了口。喜欢的亲们可以试试哦，味道非常的不错哦。",
+           "ingredients": "苹果,50g;木瓜,50g;芒果,50g",
+           "burden": "沙拉酱,适量;面包糠,适量;威化纸,适量;鸡蛋,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1939_295572.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_f9b0463bd7c5185c.jpg",
+             "step": "1.准备所需材料。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_aa5d9b661bf8ef0c.jpg",
+               "step": "2.加入适量的沙拉酱水果丁里。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_6e06f861187c9392.jpg",
+               "step": "3.拌均。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_ab912f1051b4296a.jpg",
+               "step": "4.鸡蛋打散备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_87a7859c4af57caa.jpg",
+               "step": "5.将少许拌好的水果沙拉放在威化纸上。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_51991f1096c0176b.jpg",
+               "step": "6.然后卷起。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_4d24e43560360caa.jpg",
+               "step": "7.两边包起，封口粘上清水或鸡蛋液，卷好。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_d32d21fae5e9324e.jpg",
+               "step": "8.依次做好。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_9c52d1a165b69a4e.jpg",
+               "step": "9.粘上鸡蛋液。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_5a98cdeac7eb62c4.jpg",
+               "step": "10.再粘上一层面包糠。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_781a487b7772a1ee.jpg",
+               "step": "11.依次做好其它的。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_409a1dd49fa36368.jpg",
+               "step": "12.把油烧热，放锅内炸至金黄即可出锅。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1939_038251d5e71bff87.jpg",
+               "step": "13.成品。"
+             }
+           ]
+         },
+         {
+           "id": "3005",
+           "title": "水果盘",
+           "tags": "瘦身;延缓衰老;润肠通便;白领;便秘;素食;减肥;补水;抗衰老;抗氧化;肥胖;创意菜;抗过敏;保湿;过敏;口臭",
+           "imtro": "多吃苹果有增进记忆、提高智能的效果。据研究，锌是人体内许多重要酶的组成部分，是促进生长发育的关键元素。锌通过酶广泛参与体内蛋白质、脂肪和糖的代谢。锌还是构成与记忆力息息相关的核酸与蛋白质的必不可少的元素。缺锌可使大脑皮层边缘部海马区发育不良，影响记忆力，实验也证明，减少食物中的锌，幼童的记忆力和学习能力受到严重障碍。锌还与产生抗体、提高人体免疫力等有密切关系。",
+           "ingredients": "苹果,1个",
+           "burden": "碱面,1勺",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1989_716012.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_5ec4715a6619677d.jpg",
+             "step": "1.准备苹果一个"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_9e30fde1a480ab61.jpg",
+               "step": "2.用水冲洗"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_933e00da2d4f2657.jpg",
+               "step": "3.加一勺碱面泡十分钟"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_aa4c17ccf292355e.jpg",
+               "step": "4.再冲洗干净"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_d1e5a7df41bd3fb0.jpg",
+               "step": "5.水果刀往右斜着45度轻轻切一刀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_bfa21935b533072a.jpg",
+               "step": "6.往左45度再轻轻切一刀，一个月牙片就切好了"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_2596f2da0499a8a0.jpg",
+               "step": "7.再同样方法切出第二片"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_4a99ab26035b249e.jpg",
+               "step": "8.多切出几片，往上推一下，成叶子状"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/20/1989_d8d44ca1446cc921.jpg",
+               "step": "9.再切出一张笑脸配上，呵呵，简单吧"
+             }
+           ]
+         },
+         {
+           "id": "3006",
+           "title": "水果粉馒头",
+           "tags": "早餐;儿童;蒸;馒头;增强抵抗力;创意菜",
+           "imtro": "今天学做馒头，本来没打算做的，一直到早上8点，突然又到厨房弄面粉，又想做，一直弄到9点多10点，老公才有早餐吃，我自己也饿饿的。这个馒头做的也很一般，手忙脚乱的，用错了蛋糕的泡打粉，应该是用酵母的。大家看看泡打粉加水果粉做出来的馒头吧，咔咔！",
+           "ingredients": "面粉,200g",
+           "burden": "油,适量;糖,200g;水果粉,7小包;泡打粉,5克",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/3/2171_843622.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_2bebe117759c71b2.jpg",
+             "step": "1.准备食材：面粉200克，砂糖200克，水果粉7包，泡打粉5克，油50克。另外准备适量的清水。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_f0fa0d227d9940cf.jpg",
+               "step": "2.面粉分开四份，第一份面粉加白糖，水，泡打粉和面，两外三份分别加入同类型的水果粉（草莓，南瓜，橙子）和面。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_f0aaba0b32656db9.jpg",
+               "step": "3.发酵20分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_9e7e485ac893af09.jpg",
+               "step": "4.四种粉分别取适量，展开。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_15222c6e46f3d047.jpg",
+               "step": "5.任意两块叠在一起，切去多余边角。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_606a8a277e057a02.jpg",
+               "step": "6.卷起来。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_d5daee786682a682.jpg",
+               "step": "7.切段。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_d76e4ae60c895c9f.jpg",
+               "step": "8.多余的边角揉长。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_d8aaec7a76611cc2.jpg",
+               "step": "9.打个结。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_e6d1d523801f6a92.jpg",
+               "step": "10.同样的方法完成所有面粉。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_5a00b4b3b69e4927.jpg",
+               "step": "11.蒸锅刷油。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_0c9043f04a6ddbcc.jpg",
+               "step": "12.水开后，放入馒头。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/22/2171_60e385284bb7fcdf.jpg",
+               "step": "13.蒸30分钟即可。"
+             }
+           ]
+         }
+       ]
+     },
+
+     {
+       "name": "粥",
+       "data": [{
+         "id": "4001",
+         "title": "香菇鸡肉粥",
+         "tags": "家常菜;粥;原味;10-20分钟;煮;简单;午餐;晚餐;鲜香;维生素B;1-2人;滑嫩;防便秘;锅子;香味扑鼻啊",
+         "imtro": "自己做的要比外面卖的好吃很多倍，但却当不了早餐，因为每一样准备起来都需要点时间和心思，我是没有那份时间和心情在早上准备这样一顿早餐的，这只能是我家的午饭，或者周末的早午餐。",
+         "ingredients": "大米,500g;鸡胸肉,100g",
+         "burden": "香菇,适量;玉米粒,适量;胡萝卜,适量;盐,适量",
+         "albums": [
+           "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/76_557593.jpg"
+         ],
+         "steps": [{
+           "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/76_e183c3ebb7011464.jpg",
+           "step": "1.大米淘洗干净，放入汤锅，注入适量清水，开大火煮开，煮滚后转小火。然后就来洗胡萝卜、香菇，然后胡萝卜去皮切小丁；香菇去蒂切片，香菇切片放进粥里煮，样子会非常诱人、漂亮，我这么觉得。"
+         },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/76_1e1fa58f51b2b641.jpg",
+             "step": "2.鸡胸肉洗净，我喜欢用刀随意的片成小片，形状不必规则。切成你满意的任意形状都可以。我没有腌渍鸡胸肉，没有做任何处理。你随自己的喜好可以提前将它调一下味。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/76_7f9a046b0a6a1252.jpg",
+             "step": "3.等锅里的粥煮的差不多了，就是米粒开花了，就可以放入玉米粒、胡萝卜丁、香菇片，搅拌均匀再煮上一会，等他们都断生后，就把切成小碎片的鸡胸肉倒进锅中，然后用筷子搅开，让它们快速烫熟，我喜欢这个时候加入鸡胸肉，这些做菜的细节都可以随主人的喜好和习惯随意调整。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/1/76_19f43ece6da5ef37.jpg",
+             "step": "4.最后加入一点盐调一下味就好了。香喷喷热乎乎的，做成稀饭也不错，大人小孩都适合。"
+           }
+         ]
+       },
+         {
+           "id": "4002",
+           "title": "皮蛋咸肉粥",
+           "tags": "家常菜;煮;粥;秋季",
+           "imtro": "天气凉了特别是在这种雨后湿冷的日子里，一碗热气腾腾味道香浓的米粥让人感到特别的温暖。 我老家把米粥或各种面粥等叫做“黏住”，小时候在老家是没少喝了棒子面的“黏住”，以至于知道今天吃饭时候不喝点粥或汤水的话总 觉着没有吃饱。歌曲《江南》里有几句歌词；“风到这里就是粘，粘住过客的思念。雨到了这里缠成线，缠着我们流连人世间。”乍开始听到 时就猜莫非林俊杰这小子也是潍坊人？其实不然，可我心却实实在在的被记忆里潍坊老家那口八印大锅里的棒子面“黏住”给黏住了。 喝过皮蛋瘦肉粥很美很糯的滋味，但口感过于南方了，北方人还是喜欢喝带点盐味的粥，因此我就把煮肉用盐腌渍了一下这样煮出来的粥 就有点北方味了。",
+           "ingredients": "瘦猪肉,100g;松花蛋,2枚;大米,100g;糯米,50g",
+           "burden": "盐,适量;小油菜,适量;生姜,适量;料酒,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/836_269733.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_82e05fcfbc1bde25.jpg",
+             "step": "1.瘦猪肉切大丁盛入干净容器里，放入生姜用料酒精盐腌数小时。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_6a72244d3c21072a.jpg",
+               "step": "2.大米兑入少许糯米清水淘洗后，浸泡40分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_26a6960d071f6864.jpg",
+               "step": "3.把泡好的大米用擀面杖研碎。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_04c8e468aca82af4.jpg",
+               "step": "4.小油菜洗净后切碎，松花蛋切丁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_fb43354d931ab8d1.jpg",
+               "step": "5.煮锅里倒入清水，放入腌好的瘦猪肉丁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_c2e497ceccd7fe9d.jpg",
+               "step": "6.大火火煮开后，撇掉浮沫改小火煮20分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_2a7b4f4e7f1f6421.jpg",
+               "step": "7.倒入米碎，小火煮20分钟至汤汁粘稠。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_de952d4161bac64a.jpg",
+               "step": "8.倒入松花蛋，小火煮5分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/9/836_5a432f200202718d.jpg",
+               "step": "9.洒入油菜，大火顶开后即可。"
+             }
+           ]
+         },
+         {
+           "id": "4003",
+           "title": "鲜果冰粥",
+           "tags": "粥;10分钟内;夏季;解暑;熬;水肿;鲜香;快手菜;全菜系;1-2人;利水消肿;防晒;清热解暑;生津止渴;祛痘;锅子;冷饮类;祛痘美白",
+           "imtro": "最近天气特别炎热，如果在中午到外面去，马路上的温度起码有40多度。全家人都没了胃口，尤其是女儿整天嚷着要吃红跑车蛋糕房的鲜果冰粥。这点小事哪能难倒我们好豆的烹饪高手？！瞧我的，反正家里各种水果都有。一会工夫我就把鲜果冰粥做好了。女儿高兴地直嚷：“妈妈，还是你做的好吃，材料又足。”我说：“那当然了，我又不赚你的银子。” 鲜果冰粥含有丰富的维生素和蛋白质，并且配以清凉解暑的绿豆和补血养颜的红小豆，在刨冰的清凉组合下，实属夏季营养、清凉、解暑之佳品。",
+           "ingredients": "西瓜,50g;甜脆瓜,50g;水蜜桃,50g",
+           "burden": "红小豆,适量;绿豆,适量;酸奶,适量;白糖,适量;冰块,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/2/1888_467026.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_75262af182b1ee91.jpg",
+             "step": "1.分别把水蜜桃、甜脆瓜、西瓜去皮切成小碎丁。红小豆和绿豆分别装入两个小碗加入适量的水放入电压力锅中压熟。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_575ef4504de872a7.jpg",
+               "step": "2.取一小碗盛取适量的西瓜丁、甜脆瓜丁、水蜜桃丁和适量的红小豆、绿豆装入。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_1bd4daf8dafd3b81.jpg",
+               "step": "3.准备好冰箱里贮备的冰格冰块和魔力棒。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_0a3496a17baa7501.jpg",
+               "step": "4.准备好酸奶。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_0318d491d45bf7d7.jpg",
+               "step": "5.把冰块装入料理杯。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_7468712d77bf3b71.jpg",
+               "step": "6.倒入小半杯酸奶。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_2eafb8dcde9c6f5d.jpg",
+               "step": "7.用魔力棒搅拌打成雪丽泡刨冰即可。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_11b39783266f2fca.jpg",
+               "step": "8.这是打好的雪丽泡刨冰。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/19/1888_56ef720c45510481.jpg",
+               "step": "9.然后把刨冰加入到鲜果上面即可。还等什么，开吃吧。"
+             }
+           ]
+         },
+         {
+           "id": "4004",
+           "title": "酸枣粥",
+           "tags": "粥;素菜;养生粥;养心;安神;宁心安神;补心;体质人群;偏头痛",
+           "imtro": "今天上午发了个菜谱，号称东方睡果的叶做的养心安神茶，这次，这睡果正式出现啦，做茶的时候，宪国告诉我，现在有新鲜的酸枣了，你做粥用新鲜的更好。这带果的酸枣离家远点，骑车带着小家伙一起去，摘的时候酸枣刺狠狠地扎进我的大拇哥里。现在还痛呢 酸枣仁安神、养心、敛汗。经试验有抑制中枢神经系统呈现镇静、催眠作用。用酸枣仁煎剂和粉剂治疗失眠症，结果表明，有一定镇静安眠的短期疗效。在临床上面，采用酸枣仁，对于轻度或是重度失眠均可取得较为显著理想的疗效。",
+           "ingredients": "糯米,30g;酸枣仁,10g",
+           "burden": "酸枣,六颗",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/4/3090_420856.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_84163f622156e919.jpg",
+             "step": "1.看采来的酸枣果，它的刺还扎在我的大拇哥里呢。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_a97ce16fb0842059.jpg",
+               "step": "2.摘下一颗颗酸枣来，尝了几颗，一点不酸，脆脆的好吃，原准备取它的仁，没有想到太嫩了，仁还不成型呢。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_57a44c2ce03b673a.jpg",
+               "step": "3.这是去年的酸枣。用上派场了"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_633705c05d40f5cb.jpg",
+               "step": "4.取出核砸出仁来，泪奔啊，这个仁小小的，特别难取，有点象变小了的松仁"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_779c5f47b961f2d7.jpg",
+               "step": "5.备好糯米和酸枣仁，这次没有提前泡糯米啦，反正是小锅，慢慢地煲吧"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_73862eada1186ea5.jpg",
+               "step": "6.洗净"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_e06024ff683c0bc5.jpg",
+               "step": "7.小电锅内胆装入清水，放入糯米和酸枣仁"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_580effb97d2c23c5.jpg",
+               "step": "8.擦干内胆底部，放进小电锅里，盖盖通电选择快炖。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_dd8189c4a0c78bd5.jpg",
+               "step": "9.煮开后我又放了几颗嫩嫩的酸枣。然后等着煮熟即可。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/31/3090_15cbdfddbb12413b.jpg",
+               "step": "10.前几天小电锅的米放多了些，今天特意放得少点，煮出来真好，粥没有特别的味道，好喝的"
+             }
+           ]
+         },
+         {
+           "id": "4005",
+           "title": "简单美味的配粥小菜----美极花生拌毛豆",
+           "tags": "其他;家常菜;凉菜;半小时-1小时;夏季;清凉;下饭;消暑;凉拌;清热;1-2人;其他味;家常菜凉菜",
+           "imtro": "这是一道很简单的配粥小菜，也是佐酒的的好选择。 毛豆和嫩花生都是现在的时令菜，花点小心思就是一道简单又美味的家常小拌菜。",
+           "ingredients": "花生米,150g;毛豆,100g;青椒,1个;红椒,30g;香菜,2颗",
+           "burden": "盐,适量;大料,3个;美极鲜酱油,15ml;香醋,5ml;糖,2·5g;鸡精,1g;香油,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/4/3912_205858.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_c5a15dead38d0db8.jpg",
+             "step": "1.花生米入锅中煮上5分钟。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_231a686e9d299ab1.jpg",
+               "step": "2.然后把水倒掉花生冲洗一下沥干水分备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_1bca686bdcdabcb3.jpg",
+               "step": "3.锅中再加水放入毛豆煮上2分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_74cd0e5528289ff1.jpg",
+               "step": "4.也把水倒掉把毛豆上的浮皮去掉备用。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_cd7dbea85c7bdbb2.jpg",
+               "step": "5.锅中再加水放入大料和花生米煮上20分钟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_e35528014a8a71c5.jpg",
+               "step": "6.然后把毛豆再放入继续煮5分钟关火。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_cbb88e44ebef177a.jpg",
+               "step": "7.把水倒掉，沥干水分。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_13aacbe92bf78ed8.jpg",
+               "step": "8.青红椒切碎，香菜切碎。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_730e785c23996a4d.jpg",
+               "step": "9.把所有的食材放入大碗中加入盐，糖。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_30c0bfa636c208d6.jpg",
+               "step": "10.再加入美极鲜。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_3595edf9f65cf1c6.jpg",
+               "step": "11.加入香醋。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_7dcfcbae5c511b84.jpg",
+               "step": "12.加入香油。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/40/3912_2e2561b0b7b833ab.jpg",
+               "step": "13.所有的食材拌均匀即好。"
+             }
+           ]
+         },
+         {
+           "id": "4006",
+           "title": "海鲜粥",
+           "tags": "早餐;粥;儿童;煮;面食",
+           "imtro": "早饭想要吃点简单但营养丰富的，看到豆亲们经常做这种海鲜粥，于是我也尝试着做一下，味道清淡很适合早餐吃。",
+           "ingredients": "大米,100g",
+           "burden": "葱花,适量;盐,适量;虾,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/6/5902_640725.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_79f4263e2d61e7e1.jpg",
+             "step": "1.砂锅放水煮米，水的量要根据米的量来定，喜欢浓稠的可以适当少点，我做的就是浓稠的，早餐太稀了容易饿"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_c4b5661b763852ae.jpg",
+               "step": "2.虾放水煮"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_53fa902295c4a8d4.jpg",
+               "step": "3.煮好的虾去皮，小香葱切碎备用"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_ebe33a06de98d5be.jpg",
+               "step": "4.米煮的开花时就可以了"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_a72fca94adb14381.jpg",
+               "step": "5.放入原料再煮2分钟"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_0ee0223649d35bf3.jpg",
+               "step": "6.加入适量盐"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/60/5902_cbc4b131fca26305.jpg",
+               "step": "7.搅拌均匀就可以了"
+             }
+           ]
+         }
+       ]
+     },
+
+     {
+       "name": "面",
+       "data": [{
+         "id": "5001",
+         "title": "茄汁牛肉面",
+         "tags": "早餐;家常菜;美容;延缓衰老;养胃;防辐射;防癌;抗癌;煮;消化不良;解暑;开胃;抗衰老;抗氧化;补铁;快手菜;促消化;防晒;凉血;清热解暑;调理肠胃;缓解压力",
+         "imtro": "面条是河南人日常主食之一，面条的做法也很做，有炒面、卤面、焖面、烩面、打卤面、汤面等，今天分享一道茄汁牛肉面的做法。",
+         "ingredients": "牛肉,250g;面条,500g;番茄,200g",
+         "burden": "黄油,适量;盐,适量;葱,适量;芹菜,适量;料酒,适量;黑胡椒粉,适量;生抽,适量;鸡精,适量;白糖,适量",
+         "albums": [
+           "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/132_224525.jpg"
+         ],
+         "steps": [{
+           "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_76223ee6273d0003.jpg",
+           "step": "1.原料图片。"
+         },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_33e355922889f5c6.jpg",
+             "step": "2.牛肉洗净，切成小粒，用生抽、料酒腌渍入味。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_5889e9714ac27331.jpg",
+             "step": "3.番茄洗净，去蒂切成小丁（也可以先用热水把番茄烫一下，去皮，放料理机中打碎）。葱头、芹菜分别择洗干净切粒。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_a79af39feff680a7.jpg",
+             "step": "4.黄油放锅里熔化，下入葱头粒炒出香味，下牛肉粒炒散。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_8b37a40953dccb40.jpg",
+             "step": "5.再放入番茄丁，边炒边搅动，将番茄炒碎、炒出茄汁。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_8b2eeb151401dedd.jpg",
+             "step": "6.加芹菜粒、高汤、盐、料酒、黑胡椒粉，烧沸煮5分钟，放鸡精调好口味。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_54e3c707b04d1bc7.jpg",
+             "step": "7.另起锅加清水烧沸，将面条下入煮熟。"
+           },
+           {
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/132_ad396568dd73801b.jpg",
+             "step": "8.捞入碗内，浇上茄汁牛肉卤汁就行了。"
+           }
+         ]
+       },
+         {
+           "id": "5002",
+           "title": "日式咖喱炒面",
+           "tags": "家常菜;美容;延缓衰老;防辐射;防癌;抗癌;消化不良;解暑;开胃;抗衰老;抗氧化;咖喱味;补铁;促消化;防晒;凉血;清热解暑;春季菜谱;缓解压力",
+           "imtro": "在家里如何把炒面做的如酒楼里那样香呢？ 曾经，与一酒楼的师傅讨教一个一个小小的秘诀，炒面前，应先用生抽、蚝油、鸡粉、麻油或者橄榄油给面条捞好味，再下锅炒。据说，很多师傅都是这样做呢。 还有就是：用来做炒面的面条不能太细，最好选用略粗一些的面条，这样做出来无论是外形还是口感都会很好；面煮有七八成熟就够，煮的时间长了面松软，易断，而且口感差；面条捞出后如不能及时下锅炒可淋入少许油和蚝油拌匀，以提香增味；炒面条时如果觉得太干可加入少许的水，当然加入鲜汤会更好。 炒面让人觉得有一种小幸福的美味。",
+           "ingredients": "鲜面条,300g;洋葱,半个;番茄,1个;熟虾,6个;卷心菜,200g",
+           "burden": "盐,适量;橄榄油,适量;盐,2g;蚝油,1勺;大蒜,4瓣;日式咖喱,1块",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/197_483660.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_117d61e587d5a36b.jpg",
+             "step": "1.原料"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_1977240569377782.jpg",
+               "step": "2.原料"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_9368e99a2d19b408.jpg",
+               "step": "3.洋葱、番茄、卷心菜分别切丝， 蒜去皮，切片"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_f3d76f025b494c0a.jpg",
+               "step": "4.面条放入锅煮至八成熟，没有硬芯"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_babc35b2ee3f5f98.jpg",
+               "step": "5.捞出，放入盘中，加橄榄油、一勺蚝油"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_4f4cefe6e94676dd.jpg",
+               "step": "6.拌匀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_34cc5e38012b4490.jpg",
+               "step": "7.锅中倒入橄榄油"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_98221f27fbb50868.jpg",
+               "step": "8.放入蒜片爆香"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_b408cfed3f5980e6.jpg",
+               "step": "9.放入洋葱丝炒香"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_046c3f7fa9f3b7d0.jpg",
+               "step": "10.再下番茄、卷心菜炒匀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_4769065a867f4552.jpg",
+               "step": "11.放入咖喱炒匀，加盐调味"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_7f275d6cf36f5c49.jpg",
+               "step": "12.若是水少可淋少许水"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_df843361995b05d3.jpg",
+               "step": "13.将煮过的面条放入锅中炒匀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/2/197_fc7feb2dff4733bb.jpg",
+               "step": "14.最后放入煮熟的虾，拌匀即可出锅"
+             }
+           ]
+         },
+         {
+           "id": "5003",
+           "title": "鸡蛋火腿面",
+           "tags": "家常菜;养胃;煮;面食;快手菜;调理肠胃;冬季菜谱",
+           "imtro": "冬日的北京寒冷又干燥，外加空气污染严重，真真算不上一个宜居城市。窗外西北风呼啸，早上出门上工就尤其困难起来了。饱饱暖暖的一顿早餐，是不是能多带来几分出门的动力和勇气呢？来一碗快手鸡蛋火腿面，碳水化合物，蛋白质，维生素，一个不能少",
+           "ingredients": "面条,100g;鸡蛋,2个;火腿,80g",
+           "burden": "酱油,适量;盐,适量;辣椒油,适量;青菜,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/214_546574.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_41533f87101de085.jpg",
+             "step": "1.青菜洗干净"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_eec0e8490e9d7450.jpg",
+               "step": "2.火腿切条"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_8377e4d1c865c8ea.jpg",
+               "step": "3.水烧开，下入面条"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_4916a74e6a631db7.jpg",
+               "step": "4.把青菜放入锅中"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_1e9229c944954784.jpg",
+               "step": "5.打入两个鸡蛋"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_4d97c5961687599e.jpg",
+               "step": "6.撒入少许盐调味"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_b370d96e20fdb398.jpg",
+               "step": "7.放入火腿"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_339f0286e35c7b41.jpg",
+               "step": "8.在碗中放入酱油作为底味"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/214_e74f0f602a53ef51.jpg",
+               "step": "9.喜欢吃辣的朋友不妨淋少许辣椒油提味"
+             }
+           ]
+         },
+         {
+           "id": "5004",
+           "title": "炸酱面",
+           "tags": "早餐;家常菜;炒;面食;快手菜",
+           "imtro": "炸酱面是很多人的最爱，也许每个家庭都有自己心中的炸酱面。我这不是地道老北京的，只是我们家人最爱的！我家妮，最爱吃我做的炸酱面啦！",
+           "ingredients": "五花肉,200g;鲜面条,300g;甜面酱,200g;清水,120g",
+           "burden": "油,适量;土豆,半个;胡萝卜,半根;芹菜,适量;黄瓜,1根;大蒜,适量;黄酒,2大勺;冰糖,适量;八角,1枚;花椒,适量;木耳,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/263_280526.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_fd866af8335b9827.jpg",
+             "step": "1.把土豆，胡萝卜，芹菜，木耳，切成小丁。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_6b6c57c2e290222f.jpg",
+               "step": "2.把酱倒入碗中，再倒入约120-130克的清水慢慢稀释备用。（请务必分次加入，别一下都倒进去）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_5786a48b89d51a41.jpg",
+               "step": "3.锅中倒入油，放入八角花椒，炒香。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_767935b1f5a80417.jpg",
+               "step": "4.放入五花肉丁（我这是超市打好的，回家再剁一下）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_cbbcd2039bbdaf1b.jpg",
+               "step": "5.烹入料酒"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_f1a84b3827b96f2e.jpg",
+               "step": "6.放入姜粉"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_0317d4ed3fecbee3.jpg",
+               "step": "7.放入五香粉"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_7ee3681319189f5f.jpg",
+               "step": "8.煸炒至肉丁变色后，放入已调稀的酱"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_d4e2314cd0492820.jpg",
+               "step": "9.锅开后转成小火，慢慢熬3分钟"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_91c93811be53b2c9.jpg",
+               "step": "10.加入切好的蔬菜丁，炒匀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_3f9ecd4458255d54.jpg",
+               "step": "11.放入冰糖"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_fab683389e5d86c2.jpg",
+               "step": "12.熬至酱汁浓稠后关火。（我觉得有点干，稍微加了点开水）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_01ffaca3ed46deb5.jpg",
+               "step": "13.黄瓜切丝，大葱切丝，蒜随意"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_0b9d9c467e61694f.jpg",
+               "step": "14.这是自己压好的鲜面条（没有的话，挂面也行）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_5be96d51040b7894.jpg",
+               "step": "15.煮面条（大火煮开放入面条，将面条煮至捞出看透亮无硬心时捞出过凉水）"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/263_4109bec5b64d07b2.jpg",
+               "step": "16.沥干水分后浇上炸酱，放上配菜即可"
+             }
+           ]
+         },
+         {
+           "id": "5005",
+           "title": "蚝油茄汁素炒面",
+           "tags": "家常菜;开胃;懒人食谱;秋季;面食",
+           "imtro": "百度了一下：面条又名面、水面、面条子。 面条古称“汤饼”、“奢面”、“素饼”、“煮饼”、“水引饼”、“不托”等；面条一词是后来才有的；据考证，我国面条起源于汉代，至今已有2000多年的历史，因面条要在“汤”中煮熟，所以又叫“汤饼”。早期的面条有片状的、条状的。片状的是将面团托在手上，拉扯成面片下锅而成。到了魏、晋、南北朝，面条的种类增多。著名的有《齐民要术》中收录的“水引”、“水引”是将筷子般粗的面条压成“韭叶”形状。 现在的面条形状上变化多了，有扁的，圆的，方的等等。。。。。。还可以分：手擀的，拉的，机器压的等等。。。。。。品种多样化了，做法也多种多样了。。。。。。 南方可能吃面相对少些，我们北方面条的出镜率很高，有的家庭比米饭还要高呢。 今天中午做了蚝油茄汁素炒面，味道相当好，还很爽口，真心好吃哦。。。。。。",
+           "ingredients": "面条,250g",
+           "burden": "蚝油,15g;酱油,10g;蕃茄酱,10g;醋,适量;胡萝卜,50g;黑木耳,50g;西兰花,50g;小西红柿,50g",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/291_750629.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_9f023c1bc8c8aabf.jpg",
+             "step": "1.准备好原料，洗干净。"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_182e7e71f6c0afbf.jpg",
+               "step": "2.番茄切小块，胡萝卜切小丁，西兰花掰小块，木耳切丝。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_e241e06c1d789e81.jpg",
+               "step": "3.蚝油、番茄酱、酱油、醋调成酱汁。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_957c6158bc37676e.jpg",
+               "step": "4.锅中放水，把面条煮熟。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_82622bb146d7d031.jpg",
+               "step": "5.捞出面条放凉水中。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_34eda43eeeb32bd1.jpg",
+               "step": "6.锅里放油，放葱姜爆香。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_c93020d1393334f7.jpg",
+               "step": "7.放入胡萝卜丁、西兰花和黑木耳丝翻炒至断生。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_fcbbf3210628ce61.jpg",
+               "step": "8.放入面条翻炒。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_7e9a10fe91c01a1d.jpg",
+               "step": "9.淋入酱汁，翻炒出香味。"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/3/291_28afcb1a9be4cb60.jpg",
+               "step": "10.加西红柿丁翻炒均匀即可出锅了。"
+             }
+           ]
+         },
+         {
+           "id": "5006",
+           "title": "杂蔬肉丝炒面",
+           "tags": "早餐;家常菜;养胃;炒;白领;夏季菜谱;调理肠胃",
+           "imtro": "蔬菜不仅是低糖、低盐、低脂的健康食物，蔬菜中还含有大量的维生素和矿物质，可提高身体的免疫力，多吃蔬菜也能帮身体补钙。古人有“五菜为充”的说法，如今看来，蔬菜是维护健康的必不可少的一部分。 杂蔬肉丝炒面，选用多咱普通的食材调料，用是很简单的做法， 做出营养全面的美味面。多种蔬菜来做这道炒面，把营养的分值提升到了最大。蔬菜中的纤维质能有效促进肠与胃的蠕动，整肠健胃，调整体质。",
+           "ingredients": "面条,150g;猪里脊肉,50g;胡萝卜,30g;洋葱,30g;卷心菜,30g;鸡蛋,1个",
+           "burden": "油,适量;盐,适量;料酒,适量;酱油,适量;白糖,适量;生粉,适量",
+           "albums": [
+             "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/t/1/357_562817.jpg"
+           ],
+           "steps": [{
+             "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_7d28a6e215f0b707.jpg",
+             "step": "1.原料"
+           },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_1b237a03abe4269b.jpg",
+               "step": "2.原料"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_2f761e016734e77a.jpg",
+               "step": "3.面条隔水蒸8分钟"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_b250bd8300c66837.jpg",
+               "step": "4.拌上油"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_d37b68a89de8f48b.jpg",
+               "step": "5.鸡蛋打散，摊成蛋饼"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_06cc35cacaef6147.jpg",
+               "step": "6.将蛋饼切丝"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_00dab35f60ff1d96.jpg",
+               "step": "7.猪里脊肉切丝，放生粉、料酒、盐、色拉油、白糖，搅拌均匀，腌制5分钟。锅中放适量油，油热后，放入肉丝炒至变色"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_7e206a34cd1508ff.jpg",
+               "step": "8.再放入洋葱丝"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_0186f6031b4b4584.jpg",
+               "step": "9.胡萝卜丝、卷心菜丝翻炒"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_081de2b77813f6b0.jpg",
+               "step": "10.放入蒸熟的面条继续翻炒"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_305fd64e12415fad.jpg",
+               "step": "11.加少许酱油、料酒翻炒均匀"
+             },
+             {
+               "img": "http://juheimg.oss-cn-hangzhou.aliyuncs.com/cookbook/s/4/357_78309e7e09dc0eb5.jpg",
+               "step": "12.放入蛋丝拌炒均匀即可出锅。"
+             }
+           ]
+         }
+       ]
+     }
+   ]
+}
